@@ -1,9 +1,9 @@
 </div>
 
 ## 💾 About Me
-<table style="margin: 0; border: none; border-collapse: collapse; width: 100%;">
+<table style="margin: 0px; border: 0px; border-collapse: collapse; width: 100%;">
 <tr>
-<td width="65%" style="padding: 0; padding-right: 20px; vertical-align: top; border: none;">
+<td width="65%" style="padding: 0px; padding-right: 20px; vertical-align: top; border: 0px;">
 
 - 💙 A regular human being who loves blue.
 
@@ -18,7 +18,7 @@
 - 💡 0x4682B4 is a color: <span style="color: #4682B4;">∎</span>.
 
 </td>
-<td width="35%" align="center" style="padding: 0; border: none;">
+<td width="35%" align="center" style="padding: 0px; border: 0px;">
 <img src="img/work-tired.gif" alt="Work Tired" width="300">
 </td>
 </tr>
