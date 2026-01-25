@@ -2,9 +2,9 @@
 
 ## 💾 About Me
 
-- 💙 A regular human being who loves blue.
-- 🌐 Language: CN | EN
-- 📌 I'm currently working on **[EmoteLab](https://store.steampowered.com/app/4301100/)**.
+- 💙 A regular human being who loves blue
+- 🌐 CN | EN
+- 📌 I'm currently working on **[EmoteLab](https://store.steampowered.com/app/4301100/)**
 - 🎨 I draw sometimes
 - 🪚 I make Live2D and 3D models sometimes
 
