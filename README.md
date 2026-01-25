@@ -18,8 +18,6 @@
 
 ## 🧪 EmoteLab
 
-<div align="center">
-
 [![EmoteLab](img/EmoteLab_social_card.png)](https://emotelab.app/)
 
 ---
