@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/c/0x4682B4"><img src="img/social/youtube.svg" alt="YouTube" width="32" height="32"></a>
 <a href="https://space.bilibili.com/1354443"><img src="img/social/bilibili.svg" alt="Bilibili" width="32" height="32"></a>
 <a href="https://ko-fi.com/0x4682b4"><img src="img/social/kofi.svg" alt="Ko-fi" width="32" height="32"></a>
-<a href="https://discord.gg/yourserver"><img src="img/social/discord.svg" alt="Discord" width="32" height="32"></a>
+<a href="https://discord.gg/etNtDHszGB"><img src="img/social/discord.svg" alt="Discord" width="32" height="32"></a>
 <a href="https://store.steampowered.com/app/4301100/"><img src="img/social/steam.svg" alt="Steam" width="32" height="32"></a>
 
 **Thanks for visiting!** 💙
